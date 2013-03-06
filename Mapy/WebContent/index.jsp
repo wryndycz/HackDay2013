@@ -17,7 +17,7 @@
 </head>
 
 
-<body>
+<body onload="generate_sky_holders()">
 
 
 	<div id="wrapper">
@@ -30,7 +30,7 @@
 			<div id="cube_perspective">
 			
 			
-				<div id="cube_holder">	
+				<div id="cube_world">	
 								
 					        <div id="cube">	
 					        			        
